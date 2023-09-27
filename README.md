@@ -17,17 +17,17 @@ samples, guidance on mobile development, and a full API reference.
 
 ⭐️ Course Contents to Cover ⭐️
 
-- [x] Introduction & Demo
-- [x] Setting Up The Flutter Project
-- [x] Setting Up Themes
-- [x] Folder Structure
-- [x] Setting Up Routes
-- [x] Auth Screen UI
-- [x] What is Node.js
-- [x] Node.js Installation
-- [x] Initialising Node
-- [x] First Node.js Script
-- [x] NPM & Dependencies
+- [x] ~~Introduction & Demo~~
+- [x] ~~Setting Up The Flutter Project~~
+- [x] ~~Setting Up Themes~~
+- [x] ~~Folder Structure~~
+- [x] ~~Setting Up Routes~~
+- [x] ~~Auth Screen UI~~
+- [x] ~~What is Node.js~~
+- [x] ~~Node.js Installation~~
+- [x] ~~Initialising Node~~
+- [x] ~~First Node.js Script~~
+- [x] ~~NPM & Dependencies~~
 - [ ] Creating Server
 - [ ] Nodemon
 - [ ] Create your First API
